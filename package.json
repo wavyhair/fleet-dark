@@ -5,8 +5,9 @@
   "version": "1.0.0",
   "publisher":"CHENJIE",
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^1.64.0"
   },
+  
   "categories": [
     "Themes"
   ],
