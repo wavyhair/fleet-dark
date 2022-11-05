@@ -1,4 +1,4 @@
-# fleet-dark README
+# Mimicking JetBrains' FleetDark theme README
 
 ## Working with Markdown
 
