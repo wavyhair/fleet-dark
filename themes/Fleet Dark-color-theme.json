@@ -261,7 +261,7 @@
 		  "name": "operator bitwise",
 		  "scope": "keyword.operator.bitwise",
 		  "settings": {
-			"foreground": "#8e79dc"
+			"foreground": "#d6d6dd"
 		  }
 		},
 		{
@@ -541,7 +541,7 @@
 		  "name": "Variables",
 		  "scope": "variable",
 		  "settings": {
-			"foreground": "#d6d6dd"
+			"foreground": "#b687b7"
 		  }
 		},
 		{
