@@ -1,0 +1,21 @@
+{
+  "name": "fleet-dark",
+  "displayName": "Fleet Dark",
+  "description": "Mimicking JetBrains' FleetDark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fleet Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fleet Dark-color-theme.json"
+      }
+    ]
+  }
+}
