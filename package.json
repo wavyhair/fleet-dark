@@ -23,5 +23,6 @@
   "repository":{
     "type": "git",
     "url": "https://github.com/wavyhair/fleet-dark"
-  }
+  },
+  "icon": "https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png"
 }
