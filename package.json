@@ -3,7 +3,7 @@
   "displayName": "Fleet Dark",
   "description": "Mimicking JetBrains' FleetDark theme",
   "version": "1.0.0",
-  "publisher":"not_eat_enough",
+  "publisher":"CHENJIE",
   "engines": {
     "vscode": "^1.73.0"
   },
