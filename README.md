@@ -7,9 +7,9 @@
 
  ## Screenshots
  **TS**
- ![](./assets/Ts.jpg)
+![Ts.jpg](https://s2.loli.net/2022/11/06/LopUQbf2M4GrAEw.jpg)
  **Vue**
- ![](./assets/Vue.jpg)
+![Vue.jpg](https://s2.loli.net/2022/11/06/sFeaPXEKSqpHcjG.jpg)
 **React**
- ![](./assets/React.jpg)
+![React.jpg](https://s2.loli.net/2022/11/06/2DLtSINaJrzOcUA.jpg)
 **Enjoy!**
