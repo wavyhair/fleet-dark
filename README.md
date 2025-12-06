@@ -8,13 +8,13 @@
  ## Screenshots
  **TS**
 
-![Ts.jpg](https://s2.loli.net/2022/11/06/LopUQbf2M4GrAEw.jpg)
+![Ts.jpg](./assets/ts.png)
 
  **Vue**
 
-![Vue.jpg](https://s2.loli.net/2022/11/06/sFeaPXEKSqpHcjG.jpg)
+![Vue.jpg](./assets/vue.png)
 
 **React**
 
-![React.jpg](https://s2.loli.net/2022/11/06/2DLtSINaJrzOcUA.jpg)
+![React.jpg](./assets/react.png)
 **Enjoy!**
